@@ -1,0 +1,30 @@
+.box{
+    width: 200px;
+    height: 100px;
+    margin : 20px;
+    border : 2px solid black;
+}
+.button1{
+    background-color:red;
+    margin: 5px;
+    border: none;
+    margin-left: 30px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.button2{
+    background-color:rgb(17, 85, 187);
+    margin: 5px;
+    border:none;
+    padding: 10px;
+    cursor: pointer;
+}
+.button3{
+    background-color:rgb(231, 231, 10);
+    margin: 5px;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+
+}
