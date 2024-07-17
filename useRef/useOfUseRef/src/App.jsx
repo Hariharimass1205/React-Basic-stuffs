@@ -2,7 +2,9 @@ import React,{useState,useRef, useEffect} from 'react'
 
 function App() {
   const [ input,setInput] = useState("")
+  
   const inputRef = useRef()
+  console.log(inputRef)
   useEffect(()=>{
     inputRef.current = input
   },[input])
